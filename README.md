@@ -1,6 +1,16 @@
-Me chamo José Magno e sou formado em desenvolvimento de Jogos desde, transicionei para área web e desde então venho estudando mais sobre a área.
+:vulcan_salute: Olá!!
+---
+
+
+Me chamo José Magno um apaixonado por jogos, formado em desenvolvimento de Jogos desde 2021, atualmente estou trabalhando com desenvolvimento web e desde então venho estudando mais sobre a área.
 
 Hard skills:
-C#, Javascript, NodeJS, Python. 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,unity,cs,py,flask,mysql)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagnoDutra)](https://github.com/MrKrishnaAgarwal/readme-components-github)
+
+Caso queira fazer contato ou acompanhar atualizações de meus projetos:
+[Linkedin](https://www.linkedin.com/in/jos%C3%A9-magno-encarna%C3%A7%C3%A3o-dutra-061682ba/)
 
 
