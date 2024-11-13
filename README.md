@@ -6,7 +6,7 @@ Me chamo José Magno um apaixonado por jogos, formado em desenvolvimento de Jogo
 
 Hard skills:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,nodejs,express,unity,cs,py,flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,unity,cs,py,flask,mysql)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagnoDutra)](https://github.com/MrKrishnaAgarwal/readme-components-github)
 
